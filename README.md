@@ -13,5 +13,5 @@ the script does the following:
 
 `CodeBook.md` describes the variables, the data, and any transformations or work that you performed to clean up the data
 
-`Tidy data set.txt` the resulting file with the tidy data, created by launching `run_analysis.R` script.
+`Tidy data set.txt` the resulting file with the tidy data, created by launching run_analysis.R script.
 
